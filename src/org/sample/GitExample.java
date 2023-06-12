@@ -8,4 +8,10 @@ public class GitExample {
 	}
 	
 	
+	public static void main(String[] args) {
+		GitExample s = new GitExample();
+		s.tc1();
+	}
+	
+	
 }
